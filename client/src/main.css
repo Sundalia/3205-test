@@ -1,0 +1,14 @@
+
+
+body {
+    background-image: linear-gradient(
+        to bottom,
+        rgb(5, 93, 43),
+        rgb(69, 5, 109)
+    ),
+    url("");
+    height: 100vh;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(250, 10, 178);
+
+}
